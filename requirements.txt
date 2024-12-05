@@ -1,0 +1,4 @@
+torch>=1.10.0  # For SAM and YOLO model integration
+dlib>=19.22    # For correlation tracking
+opencv-python>=4.5.5  # For video handling and processing
+numpy>=1.21.0  # For array and numerical operations
